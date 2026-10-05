@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Rômulo Carvalho, AI Engineer. Agents, evals and MCP servers in production, not in demos." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Rômulo Carvalho, AI Engineer. Agents, evals and MCP servers in production, not in demos." src="assets/hero-light.svg" width="100%">
 </picture>
 
 I'm an **AI Engineer** who builds and runs complete products on my own, from the database and the agents to the app on the App Store. Everything below is live.
@@ -30,8 +30,8 @@ I'm an **AI Engineer** who builds and runs complete products on my own, from the
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="TypeScript, React, Next.js, Expo, Node.js, Hono, PostgreSQL, Supabase, Prisma, Drizzle, Tailwind CSS, Model Context Protocol, Docker, Linux, NGINX, GitHub Actions, Vitest, Playwright, Sentry, PostHog, Stripe, WebRTC" src="assets/stack-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
+  <img alt="TypeScript, React, Next.js, Expo, Node.js, Hono, PostgreSQL, Supabase, Prisma, Drizzle, Tailwind CSS, Model Context Protocol, Docker, Linux, NGINX, GitHub Actions, Vitest, Playwright, Sentry, PostHog, Stripe, WebRTC" src="assets/tech-light.svg" width="100%">
 </picture>
 
 **TypeScript-first, end to end.** Web, mobile, backend and infrastructure in one language.
