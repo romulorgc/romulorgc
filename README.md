@@ -42,7 +42,11 @@ I'm an **AI Engineer** who builds and runs complete products on my own, from the
 - **Secure by default.** Row-level security on every table, LGPD-compliant data handling, secrets never in code.
 - **Tests where it hurts.** 400+ test files in the main product, end-to-end journeys in a real browser, evals for anything with a model in it.
 
-The product code is private. I'm extracting the reusable parts into open source, starting with a remote MCP server template.
+### Open source
+
+- [**remote-mcp-server-template**](https://github.com/romulorgc/remote-mcp-server-template). Production-ready remote MCP server in TypeScript: Streamable HTTP, OAuth 2.1 resource server, per-tool scopes with step-up, 67 tests.
+
+The product code is private. I extract the reusable parts into open source.
 
 ### Contact
 
